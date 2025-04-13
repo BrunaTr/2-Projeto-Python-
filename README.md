@@ -23,11 +23,11 @@ Este projeto é uma **calculadora simples** desenvolvida em **Python**, projetad
 
 ## 📚 Aprendizagem
 
-# ✔ try: → Tenta executar o que está dentro.
-# ✔ float(num1) → Tenta converter o que o usuário digitou (texto) para número decimal (como 3.14).
-# ✔ except ValueError: → Se a conversão falhar (ex: a pessoa digitou "banana"), esse bloco entra em ação.
-# ✔ print(...) → Mostra uma mensagem de erro personalizada.
-# ✔ exit() → Encerra o programa, porque não dá pra continuar com um número inválido.
+- ✔ try: → Tenta executar o que está dentro.
+- ✔ float(num1) → Tenta converter o que o usuário digitou (texto) para número decimal (como 3.14).
+- ✔ except ValueError: → Se a conversão falhar (ex: a pessoa digitou "banana"), esse bloco entra em ação.
+- ✔ print(...) → Mostra uma mensagem de erro personalizada.
+- ✔ exit() → Encerra o programa, porque não dá pra continuar com um número inválido.
 
 ---
 
